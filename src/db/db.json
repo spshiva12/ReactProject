@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Watch",
+      "qty": "2",
+      "price": "4000",
+      "id": 2
+    },
+    {
+      "name": "Laptop",
+      "qty": "2",
+      "price": "50000",
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "name": "Gold",
+      "qty": "4",
+      "price": "200000"
+    }
+  ]
+}
